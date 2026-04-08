@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+.env
+chat_history.db
+screenshot/
+config.json
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+幻视1.jpg

@@ -1,0 +1,20 @@
+# 核心 Web 提供商
+fastapi
+uvicorn
+httpx
+
+# AI 识别引擎 (双驱动)
+google-genai
+openai
+
+# 可视化仪表盘
+streamlit
+
+# 系统支撑与图像处理
+python-dotenv
+Pillow
+pyobjc-framework-Quartz
+pyobjc-framework-Cocoa
+
+# 专业日志管理
+loguru
